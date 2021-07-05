@@ -10,6 +10,7 @@
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .link-button{
     text-decoration: none;
@@ -25,5 +26,9 @@ section{
 .dream-big{
     background-image: url(food-network-main/images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
+    padding: 100px;
 
+}
+.pop-up{
+    color: purple;
 }
