@@ -20,6 +20,10 @@ section{
     font-weight: 700;
 }
 .top-banner{
+    background-repeat: no-repeat;
+}
+.dream-big{
     background-image: url(food-network-main/images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
+
 }
