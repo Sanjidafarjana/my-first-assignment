@@ -8,10 +8,8 @@
 .half-width img{
     width: 70%;
 }
-section{
-    display: flex;
-    margin-bottom: 100px;
-}
+
+
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(crimson,orange);
@@ -31,4 +29,34 @@ section{
 }
 .pop-up{
     color: purple;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.experience-item{
+    width: 50%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 10px 40px blanchedalmond;
+    margin-right: 30px;
+    margin-left: 30px;
+    border-radius: 10px;
+
+
+}
+#web-dev-experience{
+    border-left: 7px;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#devi{
+    border-left: 7px;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#web-dev{
+    border-left: 7px;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
 }
