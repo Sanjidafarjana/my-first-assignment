@@ -91,3 +91,11 @@
     color: mediumvioletred;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.uu{
+    display: flex;
+    margin-left: 50px;
+}
+.rimi{
+    padding-left: 50%;
+}
