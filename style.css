@@ -69,4 +69,9 @@
 }
 .foodie{
     text-align: center;
+    margin-bottom: 50px;
+}
+#gogo{
+    display: flex;
+    margin-bottom: 100px;
 }
