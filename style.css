@@ -1,5 +1,6 @@
 .orange-color{
     color: darkorange;
+    font-family: sans-serif;
 }
 .half-width{
     width: 50%;
@@ -32,7 +33,7 @@
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 .experience-item{
     width: 50%;
@@ -71,10 +72,7 @@
     text-align: center;
     margin-bottom: 50px;
 }
-.gogo{
-    display: flex;
-    margin-bottom: 100px;
-}
+
 .footer{
     color: white;
     background-color: black;
@@ -83,4 +81,13 @@
 }
 .roro{
     color: tomato;
+}
+.queen{
+    text-align: center;
+    margin-bottom: 100px;
+    
+}
+#color{
+    color: mediumvioletred;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
