@@ -60,3 +60,13 @@
     border-image: linear-gradient(blue,cyan);
     border-image-slice: 1;
 }
+.experience-item img{
+    width: 70%;
+}
+#toto{
+    text-align: center;
+    color: chocolate;
+}
+.foodie{
+    text-align: center;
+}
